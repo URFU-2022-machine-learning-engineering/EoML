@@ -1,2 +1,2 @@
 # EoML
-Ethics of Machine Learning
+Ethics of Machine Learning, homeworks
